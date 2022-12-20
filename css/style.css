@@ -1,0 +1,24 @@
+header {
+    margin-top: 15px
+}
+
+.img-fluid d-inline-block align-top {
+    width: 15px;
+    height: 15px;
+}
+
+a:hover {
+    color: bisque;
+}
+
+ul {
+    background-color: gray;
+}
+
+a {
+    color:gray;
+}
+
+a:hover {
+    color: pink;
+}
