@@ -22,3 +22,7 @@ a {
 a:hover {
     color: pink;
 }
+
+.search-form search-block-form form-row {
+    margin-left: 50px
+}
